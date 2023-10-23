@@ -7,6 +7,7 @@ Welcome to my GitHub portfolio! You can explore my projects and learn more about
 
 Please choose your preferred language to access the content.
 Keep in mind that the majority of the projects are developed in Spanish.
+
 ---
 
 # Mi Portafolio de GitHub
