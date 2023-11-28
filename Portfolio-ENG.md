@@ -19,7 +19,7 @@ NutriWise is a diet and nutrition tracking application I've developed to help pe
 ### [Clínicas Icardo](https://github.com/hugoestelles/ClinicasIcardo)
 Clínicas Icardo is a medical clinic management system I've developed to streamline patient management, appointments, and medical records. This application helps improve the efficiency of clinics and provide better service to patients.
 
-### [React-Native projects](https://github.com/hugoestelles/React-Native)
+### [React-Native projects](https://github.com/hugoestelles/React-Native/blob/main/README.md)
 Currently immersed in learning React Native, I am actively crafting diverse applications that leverage APIs, with a focus on refining interfaces and mastering the fundamental aspects of React Native.
 You can learn more about this projects in the link above.
 
