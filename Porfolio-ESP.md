@@ -1,13 +1,13 @@
 ## Bienvenid@ a mi portfolio, aquí puedes explorar mas en detalle mis proyectos!
 
 
-### [NutriWise](link_to_NutriWise_repository)
+### [NutriWise](https://github.com/hugoestelles/NutriWise)
 
-### [Clínicas Icardo](link_to_Clinicas_Icardo_repository)
+### [Clínicas Icardo](https://github.com/hugoestelles/ClinicasIcardo)
 
 ### [React-Native](https://github.com/hugoestelles/Java/tree/main)
 
-### [Java](google.com)
+### [Java](https://github.com/hugoestelles/Java/tree/main)
 
 
 ## Contacto
