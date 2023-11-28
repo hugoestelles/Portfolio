@@ -23,7 +23,7 @@ Clínicas Icardo es una aplicación web desarrollada con PHP, se trata de un sis
 
 Esta aplicación ayuda a mejorar la eficiencia de las clínicas y facilita el tratamiento de los datos.
 
-### [React-Native](https://github.com/hugoestelles/Java/tree/main)
+### [React-Native](https://github.com/hugoestelles/React-Native)
 Actualmente inmerso en aprender React Native, estoy desarrollando activamente diversas aplicaciones que aprovechan APIs, centrándome en refinar interfaces y dominar los aspectos fundamentales de React Native. Puedes obtener más información sobre estos proyectos en el enlace anterior.
 
 ### [Java](https://github.com/hugoestelles/Java/tree/main)
